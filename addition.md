@@ -1,17 +1,47 @@
 # Addition
 
-Scenario: (describe a scenario here)
-  
-  Given (state the initial condition)
+## Scenario: Addition of two positive numbers
+   Given: 
+   When: 
+   Then: 
 
-  When (state the event)
-  
-  Then (state the effect)
+## Scenario: 
+   Given: 
+   When: 
+   Then: 
+   
+## Scenario: 
+   Given: 
+   When: 
+   Then: 
 
-Scenario: (describe a scenario here)
-  
-  Given (state the initial condition)
-  
-  When (state the event)
-  
-  Then (state the effect)
+## Scenario: 
+   Given: 
+   When: 
+   Then: 
+
+## Scenario: 
+   Given: 
+   When: 
+   Then: 
+
+## Scenario: 
+   Given: 
+   When: 
+   Then: 
+
+## Scenario: 
+   Given: 
+   When: 
+   Then: 
+
+## Scenario: 
+   Given: 
+   When: 
+   Then: 
+
+## Scenario: 
+   Given: 
+   When: 
+   Then: 
+
